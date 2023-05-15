@@ -1,0 +1,6 @@
+﻿  crypt.c
+  ioapi.c
+  unzip.c
+C:\Users\cpp-port\cpp-port\port\include\zlib.h(34,1): fatal  error C1083: Cannot open include file: 'zconf.h': No such file or directory (compiling source file ioapi.c)
+C:\Users\cpp-port\cpp-port\port\include\zlib.h(34,1): fatal  error C1083: Cannot open include file: 'zconf.h': No such file or directory (compiling source file unzip.c)
+C:\Users\cpp-port\cpp-port\port\include\zlib.h(34,1): fatal  error C1083: Cannot open include file: 'zconf.h': No such file or directory (compiling source file crypt.c)
