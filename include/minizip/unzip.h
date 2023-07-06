@@ -21,6 +21,11 @@
 extern "C" {
 #endif
 
+
+#if defined(__APPLE__)
+#define MINIZEXPORT
+#endif
+
 #ifndef _ZLIB_H
 #include "zlib.h"
 #endif
