@@ -50,7 +50,7 @@
 
 /***************************************************************************/
 
-#define CRC32(c, b) ((*(pcrc_32_tab+(((uint32_t)(c) ^ (b)) & 0xff))) ^ ((c) >> 8))
+//#define CRC32(c, b) ((*(pcrc_32_tab+(((uint32_t)(c) ^ (b)) & 0xff))) ^ ((c) >> 8))
 
 #ifndef ZCR_SEED2
 #  define ZCR_SEED2 3141592654UL     /* use PI as default pattern */
