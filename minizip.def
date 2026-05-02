@@ -1,1 +1,8 @@
-IBRARY "minizip"
+LIBRARY "minizip"
+
+
+EXPORTS
+
+
+
+
